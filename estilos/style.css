@@ -23,7 +23,7 @@ menu {
     display: block;
 }
 
-#burguer {
+#burg {
     background-color: rgb(66, 66, 66);
     color: white;
     display: block;
@@ -32,7 +32,7 @@ menu {
     cursor: pointer;
 }
 
-#burguer:hover {
+#burg:hover {
     background-color: white;
     color: black;
 }
